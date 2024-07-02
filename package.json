@@ -37,7 +37,7 @@
     "types/**/*"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/chainperk"
+    "@shahzeb:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@google-cloud/pubsub": "^2.19.0",
